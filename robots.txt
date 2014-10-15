@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://FredHsuChina.github.io/sitemap.xml 
